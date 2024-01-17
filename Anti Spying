@@ -1,0 +1,1 @@
+javascript:var wssss = window.open("https://myapps.classlink.com/home", "", "width=20,height=20, top=2000,left=2000"); function windowsss() {if(document.hasFocus) {wssss.focus();} setTimeout(() => {windowsss()}, "50")} windowsss();
